@@ -2,3 +2,4 @@
 printf("Update welcome message\\n");
 printf("Another update\\n");
 printf("New line added\\n");
+int res = move_forward();
